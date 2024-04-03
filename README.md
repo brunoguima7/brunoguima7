@@ -8,7 +8,7 @@ Sou um Desenvolvedor Front-End Formado em Análise e Desenvolvimento de Sistemas
     <img src="https://skillicons.dev/icons?i=javascript,typescript,react,next,tailwind,mongo,git" />
 </div><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoguima7&layout=donut-vertical&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoguima7&layout=donut&theme=tokyonight)
 
 
 ### Contate-me:
