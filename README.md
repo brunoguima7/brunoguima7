@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá, eu sou o Bruno Guimarães 👋
 
-<!--
-**brunoguima7/brunoguima7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoguima7&hide_progress=true&theme=tokyonight)
 
-Here are some ideas to get you started:
+### Tecnologias que ultilizo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,tailwind" />
+</div>
+
+### Contate-me:
+
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/bruno-guimar%C3%A3es-4b6348209/)
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:devbrunoguimaraes@gmail.com)
