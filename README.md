@@ -5,7 +5,7 @@
 ### Tecnologias que ultilizo
 
 <div>
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,next,tailwind,mongo,git." />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,next,tailwind,mongo,git" />
 </div>
 
 ### Contate-me:
