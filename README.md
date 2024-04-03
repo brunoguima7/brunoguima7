@@ -10,5 +10,5 @@
 
 ### Contate-me:
 
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/bruno-guimar%C3%A3es-4b6348209/)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/bruno-guimar%C3%A3es-4b6348209/) 
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:devbrunoguimaraes@gmail.com)
