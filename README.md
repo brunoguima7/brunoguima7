@@ -1,7 +1,6 @@
 ### Olá, eu sou o Bruno Guimarães! 👋
 
-Sou um Desenvolvedor Front-End Formado em Análise e Desenvolvimento de Sistemas, e estou atualmente trabalhando em projetos autônomos com o objetivo de aprimorar minhas habilidades e conseguir minha primeira vaga nessa incrível área da Programação.
-
+Sou um Desenvolvedor Front-End Formado em Análise e Desenvolvimento de Sistemas, e atualmente cursando Pós-graduação em Fullstack Development.
 ### Tecnologias que utilizo:
 
 <div>
