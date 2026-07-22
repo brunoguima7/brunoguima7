@@ -5,7 +5,7 @@ Sou um Desenvolvedor Fullstack Formado em Análise e Desenvolvimento de Sistemas
 
 <div>
     <img src="https://skillicons.dev/icons?i=javascript,typescript,react,next,tailwind,mongo,git" />
-</div><br/>
+</div>
 
 ### Contate-me:
 
